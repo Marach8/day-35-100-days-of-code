@@ -15,7 +15,7 @@ def menu():
   print('"\033[32m2\033[1;33m" to edit Todo List')
   print()
   time.sleep(0.5)
-  print('"\033[32m3\033[1;33m" to add a Todo to your List')
+  print('"\033[32m3\033[1;33m" to add a Todo to your List.')
   print()
   time.sleep(0.5)
   print('"\033[32m4\033[1;33m" to remove Todo List')
